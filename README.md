@@ -8,10 +8,10 @@ To write a program to implement the K Means Clustering for Customer Segmentation
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
 
 ## Algorithm
-1. 
-2. 
-3. 
-4. 
+1.Import all necessary packages.
+2.Upload the appropiate dataset to perform K-Means Clustering.
+3.Perform K-Means Clustering on the requried dataset.
+4.Plot graph and display the clusters.
 
 ## Program:
 
@@ -75,7 +75,14 @@ plt.show()
 ```
 
 ## Output:
-![K Means Clustering for Customer Segmentation](sam.png)
+### DATASET:
+![Screenshot 2024-04-16 205704](https://github.com/chandrumathiyazhagan/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/119393023/283e7366-6c48-4675-9d25-6090d9b9410e)
+### GRAPH:
+![Screenshot 2024-04-16 205549](https://github.com/chandrumathiyazhagan/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/119393023/ca2882d2-2325-4edb-bab7-7e910238e7b7)
+### CENTROID VALUE:
+![Screenshot 2024-04-16 204953](https://github.com/chandrumathiyazhagan/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/119393023/0d1c7485-eb52-42b3-ae02-ccc84406f8a4)
+### K-MEANS CLUSTER:
+![Screenshot 2024-04-16 204944](https://github.com/chandrumathiyazhagan/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/119393023/aba371be-8e70-4794-a614-64647d7fa302)
 
 
 ## Result:
